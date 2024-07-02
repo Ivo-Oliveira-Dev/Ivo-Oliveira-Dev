@@ -9,11 +9,13 @@
 
 
 ![Ivo-Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivo-Oliveira-Dev&show_icons=true&theme=radical)
+
+
 <!--[![em construção![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oev20ol94cnbzrv5b357.png) ]]() --> 
  WebSite-portifólio em contrução...Em Breve!
  
 
-### Tecnologias  que usso no meu dia-(Skill).
+### Tecnologias  que uso no meu dia-(Skill).
 
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,7 +23,9 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
+</div><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivo-Oliveira-Dev&layout=compact)
 
 ###  Analise de dados
 <div style="display: inline_block">
